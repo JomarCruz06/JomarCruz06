@@ -3,7 +3,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jomar-de-la-cruz-valencia-563244411/?skipRedirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jomar-de-la-cruz-valencia-563244411/?skipredirect=true" altura="10" ancho="20" /></a>
+<a href="https://www.linkedin.com/in/jomar-de-la-cruz-valencia-563244411/?skipRedirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jomar-de-la-cruz-valencia-563244411/?skipredirect=true" width="10" height="20" /></a>
 </p>
 
 <h3 align="izquierda">Lenguajes y Herramientas:</h3>
